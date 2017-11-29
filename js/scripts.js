@@ -14,7 +14,7 @@ if (value > 0) {
 		alert('Value is negative');
 		console.log('Value is negative');
 }
-	else if (value = 0) {
+	else if (value === 0) {
 		alert('Value is zero');
 		console.log('Value is zero');
 }
